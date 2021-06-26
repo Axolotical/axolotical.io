@@ -1,1 +1,1 @@
-# axolotical.io
+# axolotical
